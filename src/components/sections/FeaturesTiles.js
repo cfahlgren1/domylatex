@@ -45,7 +45,8 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'How to get started',
-    paragraph: 'Send us an email with your lab report, desired layout, and instructions to reports@domylatex[.]com'
+    paragraph: 'Send us an email with your lab report, desired layout, and instructions to',
+    url: 'reports@domylatex[.]com',
   };
 
   return (
