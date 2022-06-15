@@ -101,6 +101,7 @@ const Modal = ({
                 }
                 <div className="modal-content">
                   {children}
+                  Hey
                 </div>
               </>
             }
